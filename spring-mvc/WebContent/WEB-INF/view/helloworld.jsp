@@ -11,5 +11,9 @@
 	
 	Student name: ${param.studentName}
 	
+	<br><br>
+	<!-- Get data from model by it's reference or name in this case-->
+	The message: ${message}
+	
 </body>
 </html>
